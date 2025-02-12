@@ -36,6 +36,7 @@ The selected members of the "1 TeraBit Club" are (as of 01/19/2025):
 * Equinix Warsaw: https://ix.equinix.com/home/locations-and-traffic/
 * ERA-IX: https://www.era-ix.com/statistics
 * Espanix: http://stats.espanix.net/
+* Extreme IX: https://extreme-ix.org/resources/traffic-stats
 * FL-IX: https://www.communityix.org/fl-ix-networks-traffic/
 * France-IX Paris: https://www.franceix.net/en/pops-en/france-ix-paris
 * giganet.ua: https://giganet.ua/en/statistics
